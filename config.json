@@ -1,0 +1,29 @@
+{
+    "access-log-file": null,
+    "background":      false,
+    "colors":          false,
+    "workers":         true,
+    "algo":            "rx/0",
+    "mode":            "simple",
+    "verbose":         0,
+
+    "bind": [
+        {
+            "host": "127.0.0.1",
+            "port": 3333,
+            "tls":  false
+        }
+    ],
+
+    "pools": [
+        {
+            "url":       "pool.supportxmr.com:3333",
+            "user":      "YOUR_WALLET_ADDRESS",
+            "pass":      "x",
+            "rig-id":    null,
+            "keepalive": true,
+            "enabled":   true,
+            "tls":       false
+        }
+    ]
+}
