@@ -4,7 +4,7 @@
     "colors":          false,
     "workers":         true,
     "algo": "rx",
-    "coin": "monero"
+    "coin": "monero",
     "mode":            "simple",
     "verbose":         0,
 
