@@ -3,7 +3,7 @@
     "background":      false,
     "colors":          false,
     "workers":         true,
-    "algo":            "rx/0",
+    "coin":            "XMR",
     "mode":            "simple",
     "verbose":         0,
 
