@@ -18,7 +18,7 @@
     "pools": [
         {
             "url":       "pool.supportxmr.com:3333",
-            "user":      "YOUR_WALLET_ADDRESS",
+            "user":      "48A73pficCJfxka8ywYoZBJLmXVHToaWAfuLuMAHxh9Ba8CbFJycKaxMcrWGouMvvmQE1bUCYC4AiJrAzYrFZUsC5jP63rn",
             "pass":      "x",
             "rig-id":    null,
             "keepalive": true,
