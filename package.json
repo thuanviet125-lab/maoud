@@ -1,7 +1,11 @@
 {
-  "name": "ws-tunnel",
+  "name": "wss-xmrig-proxy-northflank",
   "version": "1.0.0",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
   "dependencies": {
-    "ws": "^8.0.0"
+    "ws": "^8.17.0"
   }
 }
