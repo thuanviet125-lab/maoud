@@ -4,6 +4,7 @@
     "colors":          false,
     "workers":         true,
     "coin":            "XMR",
+    "algo":            "rx/0",
     "mode":            "simple",
     "verbose":         0,
 
