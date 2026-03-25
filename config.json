@@ -3,8 +3,8 @@
     "background":      false,
     "colors":          false,
     "workers":         true,
-    "coin":            "monero",
-    "algo":            "rx/0",
+    "algo": "rx",
+    "coin": "monero"
     "mode":            "simple",
     "verbose":         0,
 
