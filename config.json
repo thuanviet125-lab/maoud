@@ -21,6 +21,8 @@
             "url":       "pool.supportxmr.com:3333",
             "user":      "48A73pficCJfxka8ywYoZBJLmXVHToaWAfuLuMAHxh9Ba8CbFJycKaxMcrWGouMvvmQE1bUCYC4AiJrAzYrFZUsC5jP63rn",
             "pass":      "x",
+            "algo": "rx",
+            "coin": "monero",
             "rig-id":    null,
             "keepalive": true,
             "enabled":   true,
