@@ -22,7 +22,7 @@ RUN wget -q "https://github.com/xmrig/xmrig-proxy/releases/download/v${XMRIG_PRO
 
 # ── Cài Node dependencies ───────────────────────────────────
 COPY package.json ./
-RUN npm ci --omit=dev
+RUN npm install --omit=dev
 
 # ── Copy source ─────────────────────────────────────────────
 COPY proxy.js        ./
